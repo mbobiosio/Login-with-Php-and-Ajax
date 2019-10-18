@@ -24,7 +24,7 @@
 
   	<div class="uk-section uk-container">
   		<?php 
-  			echo "Hello world. Today is: ";
+  			echo "Hello!!!. ";
   			echo date("Y m d");
   		?> 
   		<p>
